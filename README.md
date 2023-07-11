@@ -6,6 +6,9 @@ Started by creating React bootstrap project:
 
 `> create-react-app reactjs-demo`
 
+Run dev site
+`> npm start`
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
